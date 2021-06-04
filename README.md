@@ -6,6 +6,6 @@
 * CSS3
 * Biblioteca Owl Carousel 2
 
-### deploy no netlifly
+### deploy no netlify
 
 [https://flixclonebr.netlify.app/](https://flixclonebr.netlify.app/)
