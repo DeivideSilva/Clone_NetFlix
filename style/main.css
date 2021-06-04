@@ -11,7 +11,7 @@
 
 body {
     background: var(--black);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Arial', Times, serif;
     color:#fff;
 }
 
@@ -23,7 +23,7 @@ header .container {
 }
 
 header .logo {
-    margin-left: 20px;
+    margin-left: 5px;
     color:var(--red);
     font-family: 'Arial Black', Times;
     font-size: 40px;
@@ -96,4 +96,8 @@ header nav a:hover {
     height: 100%;
     width: 100%;
     display: block;
+}
+
+.carrosel-filmes {
+    margin-top:5px;
 }
